@@ -33,8 +33,8 @@ class BlockCurrencies extends Module
 	{
 		$this->name = 'blockcurrencies';
 		$this->tab = 'front_office_features';
-		$this->version = '0.4.1';
-		$this->author = 'PrestaShop';
+		$this->version = '1.0.0';
+		$this->author = 'thirty bees';
 		$this->need_instance = 0;
 
 		parent::__construct();
