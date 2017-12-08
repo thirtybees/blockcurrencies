@@ -1,0 +1,13 @@
+module_name: Block Currencies
+compatible_versions: 1.0.0+
+author: thirty bees
+category: front office
+tags:
+  - currencies
+  - exchange
+  - localization
+short_description: The block currencies allows your customers to change between supported currencies on the front of your shop.
+description: description.md
+images:
+  - image-1.png
+license: MIT
