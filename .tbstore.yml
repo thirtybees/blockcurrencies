@@ -6,7 +6,7 @@ tags:
   - currencies
   - exchange
   - localization
-short_description: The block currencies allows your customers to change between supported currencies on the front of your shop.
+description_short: The block currencies allows your customers to change between supported currencies on the front of your shop.
 description: description.md
 images:
   - image-1.png
