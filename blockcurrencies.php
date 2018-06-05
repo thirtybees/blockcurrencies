@@ -40,6 +40,7 @@ class BlockCurrencies extends Module
 
 		$this->displayName = $this->l('Block Currencies');
 		$this->description = $this->l('Adds a block allowing customers to choose their preferred shopping currency.');
+		$this->tb_versions_compliancy = '> 1.0.0';
 		$this->ps_versions_compliancy = array('min' => '1.6', 'max' => '1.6.99.99');
 	}
 
