@@ -32,7 +32,7 @@ class BlockCurrencies extends Module
 	{
 		$this->name = 'blockcurrencies';
 		$this->tab = 'front_office_features';
-		$this->version = '1.0.1';
+		$this->version = '1.0.2';
 		$this->author = 'thirty bees';
 		$this->need_instance = 0;
 
